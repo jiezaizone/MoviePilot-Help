@@ -72,9 +72,9 @@ Naruto.S01E(?=61[4-9]|[6][2][0-9]|63[0-3][.\s])(?=.*HHWEB) => 火影忍者:疾�
 Naruto.S01E(?=63[4-9]|[6][4-9][0-9]|[7][01][0-9]|720[.\s])(?=.*HHWEB) => 火影忍者:疾风传{[tmdbid=31910;type=tv]}.S20E && S20E <> .2007 >> EP -220
 
 ##咒术回战
-Jujutsu.Kaisen.S02E >> EP+24
+Jujutsu.Kaisen.S02E <> 1080p >> EP+24
 Jujutsu.Kaisen.S02 => Jujutsu.Kaisen.S01
-Jujutsu.Kaisen.S03E >> EP+47
+Jujutsu.Kaisen.S03E <> 1080p >> EP+47
 Jujutsu.Kaisen.S03 => Jujutsu.Kaisen.S01
 Jujutsu.Kaisen => 咒术回战{[tmdbid=95479;type=tv]}
 咒术回战 - S02E >> 咒术回战 - S01E + EP+24
