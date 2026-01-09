@@ -77,3 +77,4 @@ Jujutsu.Kaisen.S02 => Jujutsu.Kaisen.S01
 Jujutsu.Kaisen.S03E >> EP+47
 Jujutsu.Kaisen.S03 => Jujutsu.Kaisen.S01
 Jujutsu.Kaisen => 咒术回战{[tmdbid=95479;type=tv]}
+咒术回战 - S02E >> 咒术回战 - S01E + EP+24
